@@ -4,6 +4,7 @@
 * Project duration : 2023.11.12 - 2023.12.04
 * Contributors : Yaeeun Lee, David Sunday
 * Presentation Deck: [Download](https://github.com/haydenlee914/Food.com-analysis/files/14077718/Food.com_Big_Data_Presentation.Deck.pdf)
+* Report: [Download](https://github.com/haydenlee914/Food.com-analysis/files/14077721/Food.com_Big_Data_Report.pdf)
 
 Key Business Objectives
 -------------
