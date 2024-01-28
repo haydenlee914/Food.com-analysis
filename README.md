@@ -3,8 +3,7 @@
 * Project : Food.com Dataset - Managing Big Data for Business Impact
 * Project duration : 2023.11.12 - 2023.12.04
 * Contributors : Yaeeun Lee, David Sunday
-* Presentation Deck: [Download](https://github.com/haydenlee914/hotel-booking-cancellation-prediction/issues/1#issue-2104342522)
-
+* Presentation Deck: [Download](https://github.com/haydenlee914/Food.com-analysis/files/14077718/Food.com_Big_Data_Presentation.Deck.pdf)
 
 Key Business Objectives
 -------------
