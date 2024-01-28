@@ -1,6 +1,6 @@
 # Food.com Big Data Analysis
 
-* Project : Food.com Dataset - Managing Big Data for Business Impact
+* Project : [Food.com Dataset](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews/data) - Managing Big Data for Business Impact
 * Project duration : 2023.11.12 - 2023.12.04
 * Contributors : Yaeeun Lee, David Sunday
 * Presentation Deck: [Download](https://github.com/haydenlee914/Food.com-analysis/files/14077718/Food.com_Big_Data_Presentation.Deck.pdf)
